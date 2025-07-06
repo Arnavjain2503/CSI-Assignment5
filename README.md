@@ -21,13 +21,14 @@ This app allows users to manage a list of inventory items with name and quantity
 
 ## 📸 Screenshots
 
-### 🟢 Add Item
-![Add Item](./screenshots/add-item.png)
-![Add Item](./screenshots/add-item1.png)
+## 📸 Screenshots
 
+### 🟢 Add Item
+![Add Item Screenshot](./screenshots/add-item.png)
+![Add Item Screenshot](./screenshots/add-item1.png)
 ### ✏️ Edit Item
-![Edit Item](./screenshots/edit-item.png)
-![Edit Item](./screenshots/edit-item1.png)
+![Edit Item Screenshot](./screenshots/edit-item.png)
+![Edit Item Screenshot](./screenshots/edit-item1.png)
 
 
 ---
