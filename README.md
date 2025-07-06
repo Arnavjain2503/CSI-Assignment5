@@ -91,11 +91,6 @@ npm run dev
 
 ---
 
-## 📄 Author
-
-**Arnav Deshmukh**  
-B.Tech CSE | Symbiosis Institute of Technology  
-Internship Project Submission 💼
 
 ---
 
