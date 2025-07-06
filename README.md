@@ -20,12 +20,12 @@ This app allows users to manage a list of inventory items with name and quantity
 ## 📸 Screenshots
 
 ### 🟢 Add Item
-![Add Item](./screenshots/add-item.png)
-![Add Item Variant](./screenshots/add-item1.png)
+![Add Item](crud-app/screenshots/add-item.png)
+![Add Item](crud-app/screenshots/add-item1.png)
 
 ### ✏️ Edit Item
-![Edit Item](./screenshots/edit-item.png)
-![Edit Item Variant](./screenshots/edit-item1.png)
+![Edit Item](crud-app/screenshots/edit-item.png)
+![Edit Item](crud-app/screenshots/edit-item1.png)
 
 
 
